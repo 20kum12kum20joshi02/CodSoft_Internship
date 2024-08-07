@@ -1,4 +1,5 @@
 Main Objective: Movie Genre Learning, Identification and Classification.
+
 This folder contains Python code for a movie genre prediction system using MultiOutput Naive Bayes. It predicts movie genres based on their plots.
 
 Libraries and Techniques Used
